@@ -1,2 +1,2 @@
 # nfyc-gateway-service
-Gateway Service for nfyc-study-plan and nfyc-study-revision
+Gateway Service for nfyc-study-plan-service and nfyc-study-revision-service
