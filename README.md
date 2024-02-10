@@ -1,2 +1,2 @@
-# nfyc-gateway-service
-Gateway Service for nfyc-study-plan-service and nfyc-study-revision-service
+# nfyc-eureka-server
+Service to host eureka server for service registry.
