@@ -22,8 +22,7 @@
     <dependencies>
         <dependency>
             <groupId>org.springframework.cloud</groupId>
-            <artifactId>spring-cloud-starter-eureka-server</artifactId>
-            <version>1.4.7.RELEASE</version>
+            <artifactId>spring-cloud-starter-netflix-eureka-server</artifactId>
         </dependency>
         <!--        serialize Java objects to XML and deserialize XML back into Java objects. Transitive depednecy-->
         <dependency>
