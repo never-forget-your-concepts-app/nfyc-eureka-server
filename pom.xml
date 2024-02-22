@@ -11,7 +11,7 @@
         <!-- lookup parent from repository -->
     </parent>
     <groupId>org.nfyc</groupId>
-    <artifactId>nfyc-gateway-service</artifactId>
+    <artifactId>nfyc-eureka-server</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
